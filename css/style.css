@@ -1,0 +1,243 @@
+
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .nav-img {
+    width: 15%;
+    float: left;
+    margin-top: 10px;
+  }
+  .nav-img img {
+    width: 100%;
+  }
+  
+  .nav-links ul {
+    float: right;
+    margin-top: 10px;
+  }
+  .nav-links ul li {
+    list-style-type: none;
+    float: left;
+    padding: 15px;
+  }
+  .nav-links ul li a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  
+  .home {
+    height: 100vh;
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    overflow: auto;
+  }
+  .home-content {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 50px;
+  }
+  .home-container {
+    width: 90%;
+    margin: auto;
+  }
+  
+  .home-content .bttn {
+    color: #ffffff;
+  
+    border-radius: 3px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  .bttn1 {
+    border: none;
+    background-color: #8e7754;
+  }
+  .bttn2 {
+    background-color: transparent;
+    border: solid 1px white;
+  }
+  .home-content h1 {
+    margin: 15px 0px 20px;
+    font-family: "Alegreya", serif;
+    font-size: 76px;
+  }
+  .home-content p {
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 24px;
+  }
+  
+  .section2 {
+    background-color: #ffffff;
+    margin: 50px;
+    padding: 25px;
+  }
+  .section2 img {
+    width: 500px;
+  }
+  .contant {
+    width: 500px;
+    display: inline-block;
+    margin-left: 50px;
+  }
+  .contant h2 {
+    font-family: "Alegreya", serif;
+  }
+  .contant p {
+    margin: 20px 0px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+  }
+  .contant span {
+    margin: 20px 0px;
+    display: inline-block;
+    font-size: 17px;
+  }
+  
+  .section3 {
+    margin-top: 50px;
+  
+    background-color: #f8f8f8;
+  }
+  .child {
+    margin: 50px;
+    padding: 50px;
+  }
+  .Our_Location {
+    width: 500px;
+    margin-right: 50px;
+    display: inline-block;
+    line-height: 35px;
+  }
+  .section3 img {
+    width: 500px;
+  }
+  .Our_Location h2 {
+    margin-bottom: 25px;
+    font-family: "Alegreya", serif;
+    font-size: 32px;
+  }
+  .Our_Location p {
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+  }
+  .Our_Baking {
+    margin: 30px;
+  
+    background-color: #ffffff;
+  }
+  
+  .menu {
+    width: 90%;
+    margin: 20px 0px;
+    margin: auto;
+  }
+  
+  .head {
+    text-align: center;
+    margin: 40px;
+  }
+  .head h2 {
+    padding-top: 20px;
+    margin: 30px;
+  }
+  
+  .main_dish {
+    width: 32%;
+    float: left;
+    margin: 0px 5px;
+    text-align: center;
+    line-height: 30px;
+  }
+  .main_dish h2 {
+    padding: 20px;
+  }
+  .clear-fix {
+    clear: both;
+  }
+  .main_dish img {
+    width: 100%;
+  }
+  
+  .section5 {
+    padding-bottom: 20px;
+    padding: 50px;
+    margin-top: 50px;
+  
+    background-color: #f8f8f8;
+  }
+  
+  .Contact_Information {
+    padding: 30px;
+    width: 40%;
+    line-height: 40px;
+    float: left;
+  }
+  .Contact_Information h2 {
+    padding-bottom: 20px;
+    font-size: 32px;
+  }
+  .Contact_Information p {
+    padding-bottom: 20px;
+    font-size: 17px;
+  }
+  
+  .details {
+    padding-bottom: 0px;
+  }
+  .section6 {
+    background-color: #403d38;
+    color: #ffffff;
+  }
+  .container {
+    width: 90%;
+    margin: 30px 0px;
+    margin: auto;
+    padding-top: 50px;
+  }
+  .footer {
+    width: 20%;
+    float: left;
+    margin-left: 40px;
+    line-height: 30px;
+  }
+  .footer H3 {
+    margin-bottom: 15px;
+    color: #f9f9f9;
+  }
+  .footer hr {
+    margin: 10px 0px;
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  
+    color: #969693;
+  }
+  .footer span {
+    color: #969693;
+  }
+  .footer p {
+    color: #969693;
+  }
+  .section7 {
+    background-color: #353330;
+    text-align: center;
+    height: 200px;
+    line-height: 50px;
+    padding: 50px;
+  }
+  .section7 i {
+    font-size: x-large;
+    letter-spacing: 20px;
+  }
+  .section7 p {
+    color: #969693;
+  }
+  
